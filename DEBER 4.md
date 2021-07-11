@@ -15,3 +15,5 @@ Especificos
 **5.-Conclusiones**
 
 **6.-Bibliografia**
+
+Robbins, A., & Miller, W. (2017). Análisis de circuitos (7th ed.). Distrito Federal: CENGAGE Learning.
