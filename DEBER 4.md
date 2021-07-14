@@ -27,7 +27,7 @@ Ing. Darwin Alulema
 
 General
 
-Explicar cada tipo de circuitos existentes mediante análisis de mallas, nodos, lazos y ramas, demostrar el teorema de norton y las conversiones de corriente, voltaje que se utilizo en los ejercicios.
+Examinar cada tipo de circuitos propuesto y establecer una resolcion mediante los metodos de análisis de mallas, nodos, lazos , ramas,  y las conversiones de corriente a voltaje y viceversa.
 
 Específicos
 
@@ -96,7 +96,7 @@ https://www.youtube.com/watch?v=prdyH45E87M
 
 -Después de realizar los ejercicios propuestos, se pude observar que el circuito en serie se denota por mantener su intensidad de corriente constante y variación de voltaje, el circuito en paralelo se denota por mantener el voltaje constante y variación de su intensidad de corriente.
 
--
+-Se llego a la conclusión, después desarrollar los ejemplos expuestos se pudo observar cuales son los métodos posibles para aplicar en cada ejercicio la cual se uso los métodos de análisis de mallas, nodos, lazos y ramas, así mismo el teorema de norton es muy útil ya que nos sirve, para determinar intensidades y voltajes en circuitos que son muy complejos y grandes sin necesidad de desarrollar todo el circuito si no mas bien, utilizando una corriente de corto, una inductancia y el circuito equivalente.
 
 **6.-Bibliografia**
 
