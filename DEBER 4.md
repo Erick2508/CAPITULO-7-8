@@ -27,7 +27,7 @@ Ing. Darwin Alulema
 
 General
 
-Examinar cada tipo de circuitos propuesto y establecer una resolcion mediante los metodos de análisis de mallas, nodos, lazos , ramas,  y las conversiones de corriente a voltaje y viceversa.
+Examinar cada tipo de circuitos propuesto y establecer una resolución mediante los metodos de análisis de mallas, análisis nodos, lazos , ramas,  y las conversiones de corriente a voltaje y viceversa.
 
 Específicos
 
